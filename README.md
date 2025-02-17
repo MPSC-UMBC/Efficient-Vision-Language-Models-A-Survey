@@ -1,4 +1,4 @@
-# VLM_Survey_Paper
+# Efficient-Vision-Language-Models
 [2025] Efficient Vision Language Models: A Survey  
 
 > **[Paper_Link](http://arxiv.org/abs/2312.03863)**[ [arXiv]](http://arxiv.org/abs/2312.03863) (Paper Versions Listed)

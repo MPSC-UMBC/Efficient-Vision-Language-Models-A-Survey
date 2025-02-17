@@ -16,7 +16,7 @@ Paper Description
   - [Quantization](#Quantization)
       - [Post-Training Quantization](#Post-Training-Quantization)
       - [Quantization-Aware Training](#Quantization-Aware-Training)
-    - [Low-rank Approximation](#Low-rank-Approximation)
+  - [Low-rank Approximation](#Low-rank-Approximation)
       - [Structured Pruning](#Structured-Pruning)
       - [Unstructured Pruning](#Unstructured-Pruning)
     - [Low-Rank Approximation](#Low-Rank-Approximation)

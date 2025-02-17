@@ -13,7 +13,7 @@ Paper Description
 
 ## 📖 Table of Content
 - [🤖 Pre-deployment techniques](#Pre-deployment-techniques) 
-  - [Quantization](#Model-Compression)
+  - [Quantization](#Quantization)
       - [Post-Training Quantization](#Post-Training-Quantization)
       - [Quantization-Aware Training](#Quantization-Aware-Training)
     - [Parameter Pruning](#Parameter-Pruning)

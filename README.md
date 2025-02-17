@@ -15,7 +15,7 @@ Paper Description
 - [🤖 Pre-deployment techniques](#-Model-Centric) 
   - [Quantization](#Model-Compression)
       - [Post-Training Quantization](#Post-Training-Quantization)
-      - [Quantization-Aware Training](#Weight-Only-Quantization)
+      - [Quantization-Aware Training](#Quantization-Aware-Training)
     - [Parameter Pruning](#Parameter-Pruning)
       - [Structured Pruning](#Structured-Pruning)
       - [Unstructured Pruning](#Unstructured-Pruning)

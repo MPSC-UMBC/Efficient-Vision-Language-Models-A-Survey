@@ -16,7 +16,7 @@ Paper Description
   - [Quantization](#Quantization)
       - [Post-Training Quantization](#Post-Training-Quantization)
       - [Quantization-Aware Training](#Quantization-Aware-Training)
-    - [Parameter Pruning](#Parameter-Pruning)
+    - [Low-rank Approximation](#Low-rank-Approximation)
       - [Structured Pruning](#Structured-Pruning)
       - [Unstructured Pruning](#Unstructured-Pruning)
     - [Low-Rank Approximation](#Low-Rank-Approximation)
@@ -95,20 +95,12 @@ Paper Description
 - PTQ4ViT- Post-Training Quantization for Vision Transformers with Twin Uniform Quantization, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.00978)] [[Code](https://github.com/mit-han-lab/llm-awq)]
 - PTQ4SAM- Post-Training Quantization for Segment Anything, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.02272)] [[Code](https://github.com/xvyaward/owq)]
 ###### Quantization-Aware Training
-- I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17849)] 
-- IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.01241)] 
-- OmniQuant: OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
-- OneBit: Towards Extremely Low-bit Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.11295)]
-- GPTQ: Accurate Quantization for Generative Pre-trained Transformers, <ins>ICLR, 2023</ins> [[Paper](https://openreview.net/forum?id=tcbBPnfwxS)] [[Code](https://github.com/IST-DASLab/gptq)]
-- QuIP: 2-Bit Quantization of Large Language Models With Guarantees, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2307.13304)] [[Code](https://github.com/jerry-chee/QuIP)]
-- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.00978)] [[Code](https://github.com/mit-han-lab/llm-awq)]
-- OWQ: Lessons Learned from Activation Outliers for Weight Quantization in Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.02272)] [[Code](https://github.com/xvyaward/owq)]
-- SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/pdf/2306.03078)] [[Code](https://github.com/Vahe1994/SpQR)]
-- FineQuant: Unlocking Efficiency with Fine-Grained Weight-Only Quantization for LLMs, <ins>NeurIPS-ENLSP, 2023</ins> [[Paper](https://arxiv.org/abs/2308.09723)]
-- LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale, <ins>NeurlPS, 2022</ins> [[Paper](https://openreview.net/forum?id=dXiGWqBoxaD)] [[Code](https://github.com/TimDettmers/bitsandbytes)]
-- Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning, <ins>NeurIPS, 2022</ins> [[Paper](https://arxiv.org/abs/2208.11580)] [[Code](https://github.com/IST-DASLab/OBC)]
-- QuantEase: Optimization-based Quantization for Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2309.01885)] [[Code](https://github.com/linkedin/QuantEase)]
-#### Parameter Pruning
+- Boost Vision Transformer with GPU-Friendly Sparsity and Quantization, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17849)] 
+- Advancing Multimodal Large Language Models with Quantization-aware Scale Learning for Efficient Adaptation, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.01241)] 
+- Q-ViT- Fully Differentiable Quantization for Vision Transformer, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
+- LLM-QAT-Data-Free Quantization Aware Training for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.11295)]
+- EfficientQAT- Efficient Quantization-Aware Training for Large Language Models, <ins>ICLR, 2023</ins> [[Paper](https://openreview.net/forum?id=tcbBPnfwxS)] [[Code](https://github.com/IST-DASLab/gptq)]
+#### Low-rank Approximation
 ##### Structured Pruning
 - Compact Language Models via Pruning and Knowledge Distillation, <ins>arXiv, 2024</ins> [[Paper](https://www.arxiv.org/abs/2407.14679)] 
 - A deeper look at depth pruning of LLMs, <ins>arXiv, 2024</ins> [[Paper](https://www.arxiv.org/abs/2407.16286)] 

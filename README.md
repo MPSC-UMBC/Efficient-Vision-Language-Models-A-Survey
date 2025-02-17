@@ -12,14 +12,10 @@
 Paper Description
 
 ## 📖 Table of Content
-- [🤖 Model-Centric Methods](#-Model-Centric) 
-  - [Model Compression](#Model-Compression) 
-    - [Quantization](#Quantization)
+- [🤖 Pre-deployment techniques](#-Model-Centric) 
+  - [Quantization](#Model-Compression)
       - [Post-Training Quantization](#Post-Training-Quantization)
-        - [Weight-Only Quantization](#Weight-Only-Quantization)
-        - [Weight-Activation Co-Quantization](#Weight-Activation-Co-Quantization)
-        - [Evaluation of Post-Training Quantization](#Evaluation-of-Post-Training-Quantization)
-      - [Quantization-Aware Training](#Quantization-Aware-Training)
+      - [Quantization-Aware Training](#Weight-Only-Quantization)
     - [Parameter Pruning](#Parameter-Pruning)
       - [Structured Pruning](#Structured-Pruning)
       - [Unstructured Pruning](#Unstructured-Pruning)
@@ -89,8 +85,7 @@ Paper Description
 
 ## 🤖 Model-Centric Methods
 ### Model Compression
-#### Quantization
-##### Post-Training Quantization
+###### Post-Training Quantization
 ###### Weight-Only Quantization
 - I-LLM: Efficient Integer-Only Inference for Fully-Quantized Low-Bit Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17849)] 
 - IntactKV: Improving Large Language Model Quantization by Keeping Pivot Tokens Intact, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.01241)] 
@@ -105,28 +100,6 @@ Paper Description
 - LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale, <ins>NeurlPS, 2022</ins> [[Paper](https://openreview.net/forum?id=dXiGWqBoxaD)] [[Code](https://github.com/TimDettmers/bitsandbytes)]
 - Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning, <ins>NeurIPS, 2022</ins> [[Paper](https://arxiv.org/abs/2208.11580)] [[Code](https://github.com/IST-DASLab/OBC)]
 - QuantEase: Optimization-based Quantization for Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2309.01885)] [[Code](https://github.com/linkedin/QuantEase)]
-###### Weight-Activation Co-Quantization
-- Rotation and Permutation for Advanced Outlier Management and Efficient Quantization of LLMs, <ins>NeurIPS, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] 
-- OmniQuant: OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
-- Intriguing Properties of Quantization at Scale, <ins>NeurIPS, 2023</ins> [[Paper](https://arxiv.org/abs/2305.19268)]
-- ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2303.08302)] [[Code](https://github.com/microsoft/DeepSpeed)]
-- ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats, <ins>NeurIPS-ENLSP, 2023</ins> [[Paper](https://arxiv.org/abs/2307.09782)] [[Code](https://github.com/microsoft/DeepSpeed)]
-- OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization, <ins>ISCA, 2023</ins> [[Paper](https://arxiv.org/abs/2304.07493)] [[Code](https://github.com/clevercool/ANT-Quantization)]
-- RPTQ: Reorder-based Post-training Quantization for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2304.01089)] [[Code](https://github.com/hahnyuan/RPTQ4LLM)]
-- Outlier Suppression+: Accurate Quantization of Large Language Models by Equivalent and Optimal Shifting and Scaling, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2304.09145)] [[Code](https://github.com/ModelTC/Outlier_Suppression_Plus)]
-- QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2310.08041)]
-- SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models, <ins>ICML, 2023</ins> [[Paper](https://arxiv.org/abs/2211.10438)] [[Code](https://github.com/mit-han-lab/smoothquant)]
-- ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers, <ins>NeurIPS, 2022</ins> [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adf7fa39d65e2983d724ff7da57f00ac-Abstract-Conference.html)]
-
-###### Evaluation of Post-Training Quantization
- - Evaluating Quantized Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.18158)]
-##### Quantization-Aware Training
-- The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.17764)]
-- FP8-LM: Training FP8 Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2310.18313)]
-- Training and inference of large language models using 8-bit floating point, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2309.17224)]
-- BitNet: Scaling 1-bit Transformers for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2310.11453)]
-- LLM-QAT: Data-Free Quantization Aware Training for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAThttps://github.com/facebookresearch/LLM-QAT)]
-- Compression of Generative Pre-trained Language Models via Quantization, <ins>ACL, 2022</ins> [[Paper](https://aclanthology.org/2022.acl-long.331.pdf)]
 #### Parameter Pruning
 ##### Structured Pruning
 - Compact Language Models via Pruning and Knowledge Distillation, <ins>arXiv, 2024</ins> [[Paper](https://www.arxiv.org/abs/2407.14679)] 

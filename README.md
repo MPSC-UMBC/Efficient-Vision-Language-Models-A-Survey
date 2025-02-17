@@ -27,8 +27,8 @@ Paper Description
     - [Parameter Efficient](#Parameter-Efficient)
       - [Low-Rank Adapters](#Low-Rank-Adapters)
       - [Prompt Tuning](#Prompt-Tuning)
-      - [Adapter-based Methods]
-      - [Mapping-based Methods]
+      - [Adapter-based Methods](#Adapter-based-Methods)
+      - [Mapping-based Methods](#Mapping-based-Methods)
     - [Memory Efficient](#Memory-Efficient)
   - [Prompt Engineering](#Prompt-Engineering)
     - [Few-Shot Prompting](#Few-Shot-Prompting)
@@ -100,11 +100,6 @@ Paper Description
 ##### Prompt Tuning
 ##### Adapter-based Methods
 ##### Mapping-based Methods
-- MATES: Model-Aware Data Selection for Efficient Pretraining with Data Influence Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.06046)]
-- DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining, <ins>NeurIPS, 2023</ins> [[Paper](https://arxiv.org/abs/2305.10429)]
-- Data Selection for Language Models via Importance Resampling, <ins>NeurIPS, 2023</ins> [[Paper](https://arxiv.org/abs/2302.03169)] [[Code](https://github.com/p-lambda/dsir)]
-- NLP From Scratch Without Large-Scale Pretraining: A Simple and Efficient Framework, <ins>ICML, 2022</ins> [[Paper](https://arxiv.org/pdf/2111.04130.pdf)] [[Code](https://github.com/yaoxingcheng/TLM)]
-- Span Selection Pre-training for Question Answering, <ins>ACL, 2020</ins> [[Paper](https://arxiv.org/abs/1909.04120)] [[Code](https://github.com/IBM/span-selection-pretraining)]
 #### Memory Efficient
 - NeurIPS-2023-make-pre-trained-model-reversible-from-parameter-to-memory-efficient-fine-tuning-Paper-Conference, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.00888)]
 - Mercea_Time-_Memory-_and_Parameter-Efficient_Visual_Adaptation_CVPR_2024_paper, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.13064)]

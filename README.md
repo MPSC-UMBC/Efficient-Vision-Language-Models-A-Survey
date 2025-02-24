@@ -87,7 +87,8 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Advancing Vision-Language Models with Adapter Ensemble Strategies , <ins>EMNLP, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
 
 ###### Prompt Tuning
-- Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]
+- Visual-Language Prompt Tuning with Knowledge-guided Context Optimization, <ins>CVPR 2023</ins> [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]
+- 
 ###### Adapter-based Methods
 ###### Prefix Tuning
 ### Memory Efficient

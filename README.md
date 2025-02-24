@@ -83,6 +83,9 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ## 🔢 Efficient Finetuning
 ### Parameter Efficient
 ###### Low-Rank Adapters
+- Low-Rank Few-Shot Adaptation of Vision-Language Models , <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
+- Low-Rank Few-Shot Adaptation of Vision-Language Models , <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
+
 ###### Prompt Tuning
 ###### Adapter-based Methods
 ###### Prefix Tuning

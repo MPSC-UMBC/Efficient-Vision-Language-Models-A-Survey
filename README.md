@@ -88,13 +88,13 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 
 ###### Prompt Tuning
 - Visual-Language Prompt Tuning with Knowledge-guided Context Optimization, <ins>CVPR 2023</ins> [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]
-- 
+-  [[Code](https://github.com/fanrena/DPT?tab=readme-ov-file)]
 ###### Adapter-based Methods
 ###### Prefix Tuning
 ### Memory Efficient
 - NeurIPS-2023-make-pre-trained-model-reversible-from-parameter-to-memory-efficient-fine-tuning-Paper-Conference, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.00888)]
 - Mercea_Time-_Memory-_and_Parameter-Efficient_Visual_Adaptation_CVPR_2024_paper, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.13064)]
-- M2IST, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.07625)] [[Code](https://huggingface.co/datasets/math-ai/AutoMathText)]
+- M2IST, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.07625)] [[Code](https://github.com/fanrena/DPT?tab=readme-ov-file)]
 - SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2312.15685)] [[Code](https://github.com/JiazuoYu/MoE-Adapters4CL?tab=readme-ov-file)]
 
 ## 🧑‍💻 Runtime Optimization

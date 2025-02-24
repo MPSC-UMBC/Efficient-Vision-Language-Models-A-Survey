@@ -3,13 +3,16 @@
 
 > **[Paper_Link](http://arxiv.org/abs/2312.03863)**[ [arXiv]](http://arxiv.org/abs/2312.03863) (Paper Versions Listed)
 
-> *Authors*
+> *Gaurav Shinde*, *Anuradha Ravi*, *Emon Dey*, *Milind Rampure*, *Nirmalya Roy*
 
-> *University*
+> *University of Maryland, Baltimore County (UMBC)*
 
-## 📌 What is This Survey About?
+🤝 Support & Collaboration
+We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email with any suggestions.
 
-Paper Description
+## 📌 Abstract
+Vision-language models (VLMs) integrate visual and textual information, enabling a wide range of applications such as image captioning and visual question answering, making them crucial for modern AI systems. However, their high computational demands pose challenges for real-time applications. This has led to a growing focus on developing efficient visionlanguage models. In this survey, we review key techniques
+for optimizing VLMs on edge and resource-constrained devices. We also explore compact VLM architectures, frameworks and provide detailed insights into the performancelatency trade-offs of efficient VLMs. Our objective is to foster deeper research in this area.
 
 ## 📖 Table of Content
 - [🤖 Pre-deployment techniques](#Pre-deployment-techniques) 

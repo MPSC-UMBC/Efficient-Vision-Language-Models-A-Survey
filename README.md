@@ -28,7 +28,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
     - [Low-Rank Adapters](#Low-Rank-Adapters)
     - [Prompt Tuning](#Prompt-Tuning)
     - [Adapter-based Methods](#Adapter-based-Methods)
-    - [Prefaix Tuning](#Prefix-Tuning)
+    - [Prefix Tuning](#Prefix-Tuning)
   - [Memory Efficient](#Memory-Efficient)
 - [🧑‍💻 Runtime Optimization](#Runtime-Optimization)
     - [Token Reduction](#Token-Reduction)

@@ -87,15 +87,25 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Advancing Vision-Language Models with Adapter Ensemble Strategies , <ins>EMNLP, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
 
 ###### Prompt Tuning
-- Visual-Language Prompt Tuning with Knowledge-guided Context Optimization, <ins>CVPR 2023</ins> [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]
--  [[Code](https://github.com/fanrena/DPT?tab=readme-ov-file)]
+- Visual-Language Prompt Tuning with Knowledge-guided Context Optimization, <ins>CVPR, 2023</ins> [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]
+- Dual Modality Prompt Tuning for Vision-Language Pre-Trained Mode,<ins>ICCV 2023</ins> [[Paper](https://dl.acm.org/doi/10.1109/TMM.2023.3291588)] [[Code](https://github.com/mlvlab/DAPT)]
+- Distribution-Aware Prompt Tuning for Vision-Language Models,<ins>IEEE/CVF, 2023</ins> [[Paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800v1947/1TJdQhTQazK)] [[Code](https://github.com/mlvlab/DAPT)]
+  
 ###### Adapter-based Methods
+- MMA: Multi-Modal Adapter for Vision-Language Models,<ins>CVPR, 2024</ins> [[Paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800v1947/1TJdQhTQazK)] [[Code](https://github.com/ZjjConan/VLM-MultiModalAdapter)]
+- VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,<ins>CVPR, 2022</ins> [[Paper](https://arxiv.org/abs/2112.06825)] [[Code](https://github.com/ylsung/VL_adapter)]
+- Meta-Adapter: An Online Few-shot Learner for Vision-Language Mode,<ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2311.03774)][[Code](https://github.com/ArsenalCheng/Meta-Adapter)]
+  
 ###### Prefix Tuning
+- Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models,<ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2303.05977)] [[Code](https://github.com/tjvsonsbeek/open-ended-medical-vqa?tab=readme-ov-file)]
+- User-Aware Prefix-Tuning is a Good Learner for Personalized Image Captioning,<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2312.04793)] 
+- Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning,<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2408.06259)]
+
 ### Memory Efficient
-- NeurIPS-2023-make-pre-trained-model-reversible-from-parameter-to-memory-efficient-fine-tuning-Paper-Conference, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.00888)]
-- Mercea_Time-_Memory-_and_Parameter-Efficient_Visual_Adaptation_CVPR_2024_paper, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.13064)]
-- M2IST, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.07625)] [[Code](https://github.com/fanrena/DPT?tab=readme-ov-file)]
-- SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2312.15685)] [[Code](https://github.com/JiazuoYu/MoE-Adapters4CL?tab=readme-ov-file)]
+- Make Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.00477)] [[Code](https://github.com/BaohaoLiao/mefts)]
+- Time-, Memory- and Parameter-Efficient Visual Adaptation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2402.02887)] [[Code](https://github.com/google-research/scenic)]**
+- M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.01131)] [[Code](https://github.com/xuyang-liu16/M2IST)]
+- SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2305.18513)] [[Code](https://github.com/arashardakani/SlimFit)]
 
 ## 🧑‍💻 Runtime Optimization
 ### Token Reduction

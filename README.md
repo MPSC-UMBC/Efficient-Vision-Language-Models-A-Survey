@@ -1,4 +1,4 @@
-# Efficient Vision Language Models: A Survey <img src="[https://raw.githubusercontent.com/user/repo/main/logo.png](https://cypress.umbc.edu/wp-content/uploads/sites/776/2024/10/d2-792x792.png)" width="30">
+# !Efficient Vision Language Models: A Survey
 
 
 > *Gaurav Shinde*, *Anuradha Ravi*, *Emon Dey*, *Milind Rampure*, *Nirmalya Roy*

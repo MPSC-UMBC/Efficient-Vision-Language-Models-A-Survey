@@ -21,7 +21,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
   - [Pruning](#Pruning)
     - [Structured](#Structured)
     - [Unstructured](#Unstructured)
-  - [Knowledgaae Distillation](#Knowledge-Distillation) 
+  - [Knowledge Distillation](#Knowledge-Distillation) 
   - [Other Methods](#Other-Methods)
 - [🔢 Efficient Finetuning](#Efficient-Finetuning)
   - [Parameter Efficient](#Parameter-Efficient)
@@ -87,6 +87,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Advancing Vision-Language Models with Adapter Ensemble Strategies , <ins>EMNLP, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
 
 ###### Prompt Tuning
+- Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]
 ###### Adapter-based Methods
 ###### Prefix Tuning
 ### Memory Efficient

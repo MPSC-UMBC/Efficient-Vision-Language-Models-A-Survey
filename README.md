@@ -63,22 +63,22 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - SmartTrim- Adaptive Tokens and Attention Pruning for Efficient VLMs, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.15033)]
 - OSSCAR- One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization, <ins>ACM/ICML, 2024</ins> [[Paper](https://dl.acm.org/doi/10.5555/3692070.3693510)] [[Code](https://github.com/mazumder-lab/OSSCAR)]
 - Lin_MoPE-CLIP_Structured_Pruning_for_Efficient_Vision-Language_Models_with_Module-wise_Pruning_CVPR_2024_paper, <ins>IEEE/CVF, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_MoPE-CLIP_Structured_Pruning_for_Efficient_Vision-Language_Models_with_Module-wise_Pruning_CVPR_2024_paper.html)]
-- Isomorphic Pruning for Vision Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
+- Isomorphic Pruning for Vision Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.04616)] [[Code](https://github.com/VainF/Isomorphic-Pruning?tab=readme-ov-file)]
 ###### Unstructured
-- Rethinking Pruning for Vision-Language Models- Strategies for effective sparsity and performance restoration, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17849)] 
-- MULTIFLOW- Shifting Towards Task-Agnostic Vision-Language Pruning, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.01241)] 
-- ECOFLAP- EFFICIENT COARSE-TO-FINE LAYER-WISE PRUNING FOR VISION-LANGUAGE MODELS, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
+- Rethinking Pruning for Vision-Language Models- Strategies for effective sparsity and performance restoration, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.02424)] [[Code](https://github.com/Shwai-He/VLM-Compression?tab=readme-ov-file)]
+- MULTIFLOW- Shifting Towards Task-Agnostic Vision-Language Pruning, <ins>IEEE/CVF, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Farina_MULTIFLOW_Shifting_Towards_Task-Agnostic_Vision-Language_Pruning_CVPR_2024_paper.pdf)] [[Code](https://github.com/FarinaMatteo/multiflow)]
+- ECOFLAP- EFFICIENT COARSE-TO-FINE LAYER-WISE PRUNING FOR VISION-LANGUAGE MODELS, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.02998)] [[Code](https://github.com/ylsung/ECoFLaP)]
 ### Knowledge Distillation
-- VLDadaptor_Domain_Adaptive_Object_Detection_With_Vision-Language_Model_Distillation, <ins>NeurIPS, 2023</ins> [[Paper](https://openreview.net/forum?id=bqGK5PyI6-N)] [[Code](https://github.com/rabeehk/compacter)]
-- Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper, <ins>NeurIPS, 2022</ins> [[Paper](https://openreview.net/forum?id=rBCvMG-JsPd)] [[Code](https://github.com/r-three/t-few)]
-- Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper, <ins>AutoML, 2022</ins> [[Paper](https://openreview.net/forum?id=BCGNf-prLg5)]
-- KD-VLP, <ins>EMNLP, 2022</ins> [[Paper](https://aclanthology.org/2022.emnlp-main.388/)] [[Code](https://github.com/microsoft/AdaMix)]
-- Fang_Compressing_Visual-Linguistic_Model_via_Knowledge_Distillation_ICCV_2021_paper, <ins>EMNLP, 2022</ins> [[Paper](https://aclanthology.org/2022.findings-emnlp.160/)] [[Code](https://github.com/Shwai-He/SparseAdapter)]
+- VLDadaptor_Domain_Adaptive_Object_Detection_With_Vision-Language_Model_Distillation, <ins>IEEE TMM, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10669066)] [[Code](https://github.com/GingerCohle/VLDadaptor?tab=readme-ov-file)]
+- Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.html)]
+- Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper.html)] [[Code](https://github.com/zhengli97/PromptKD?tab=readme-ov-file)]
+- KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation, <ins>arXiv, 2021</ins> [[Paper](https://arxiv.org/abs/2109.10504)]
+- Fang_Compressing_Visual-Linguistic_Model_via_Knowledge_Distillation_ICCV_2021_paper, <ins>EMNLP, 2022</ins> [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Compressing_Visual-Linguistic_Model_via_Knowledge_Distillation_ICCV_2021_paper.html)]
 ### Other Methods
-- Lu_Knowing_When_to_CVPR_2017_paper, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/html/2408.11049v1)]
-- Yu_Boosting_Continual_Learning_of_Vision-Language_Models_via_Mixture-of-Experts_Adapters_CVPR_2024_paper, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.00242)]
-- Med-MoE- Mixture of Domain-Specific Experts for Lightweight Medical VLMs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.16710)]
-- Scaling Vision-Language Models with Sparse Mixture of Experts, <ins>arXiv, 2024</ins> [[Paper](https://github.com/Infini-AI-Lab/TriForce)]
+- Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning, <ins>CVPR, 2017</ins> [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Lu_Knowing_When_to_CVPR_2017_paper.html)]
+- Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.11549)] [[Code](https://github.com/JiazuoYu/MoE-Adapters4CL?tab=readme-ov-file)]
+- Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.10237)] [[Code](https://github.com/jiangsongtao/Med-MoE?tab=readme-ov-file)]
+- Scaling Vision-Language Models with Sparse Mixture of Experts, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2303.07226)]
 
 ## 🔢 Efficient Finetuning
 ### Parameter Efficient
@@ -90,7 +90,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - NeurIPS-2023-make-pre-trained-model-reversible-from-parameter-to-memory-efficient-fine-tuning-Paper-Conference, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.00888)]
 - Mercea_Time-_Memory-_and_Parameter-Efficient_Visual_Adaptation_CVPR_2024_paper, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.13064)]
 - M2IST, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.07625)] [[Code](https://huggingface.co/datasets/math-ai/AutoMathText)]
-- SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2312.15685)] [[Code](https://github.com/hkust-nlp/deita)]
+- SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2312.15685)] [[Code](https://github.com/JiazuoYu/MoE-Adapters4CL?tab=readme-ov-file)]
 
 ## 🧑‍💻 Runtime Optimization
 ### Token Reduction

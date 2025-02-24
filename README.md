@@ -27,7 +27,7 @@ Paper Description
     - [Low-Rank Adapters](#Low-Rank-Adapters)
     - [Prompt Tuning](#Prompt-Tuning)
     - [Adapter-based Methods](#Adapter-based-Methods)
-    - [Prefix Tuning](#Prefix-Tuning)
+    - [Prefaix Tuning](#Prefix-Tuning)
   - [Memory Efficient](#Memory-Efficient)
 - [🧑‍💻 Runtime Optimization](#Runtime-Optimization)
     - [Token Reduction](#Token-Reduction)
@@ -53,11 +53,10 @@ Paper Description
 - Advancing Multimodal Large Language Models with Quantization-aware Scale Learning for Efficient Adaptation, <ins>ACM, 2024</ins> [[Paper](https://dl.acm.org/doi/10.1145/3664647.3680838)] [[Code](https://github.com/xjjxmu/QSLAW?tab=readme-ov-file)]
 - Q-ViT- Fully Differentiable Quantization for Vision Transformer, <ins>arXiv, 2022</ins> [[Paper](https://arxiv.org/abs/2201.07703)]
 - LLM-QAT-Data-Free Quantization Aware Training for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAT?tab=readme-ov-file)]
-- EfficientQAT- Efficient Quantization-Aware Training for Large Language Models, <ins>ICLR, 2023</ins> [[Paper](https://arxiv.org/abs/2407.11062)] [[Code](https://github.com/OpenGVLab/EfficientQAT?tab=readme-ov-file)]
+- EfficientQAT- Efficient Quantization-Aware Training for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.11062)] [[Code](https://github.com/OpenGVLab/EfficientQAT?tab=readme-ov-file)]
 ### Low-rank Approximation
-- SeTAR- Out-of-Distribution Detection with selective low-rank approximation, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17849)] 
-- PELA- Learning Parameter-Efficient Models with Low-Rank Approximation, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.01241)] 
-- Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
+- Low-Rank Few-Shot Adaptation of Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
+- Advancing Vision-Language Models with Adapter Ensemble Strategies, <ins>ACL, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
 ### Pruning
 ###### Structured
 - SmartTrim- Adaptive Tokens and Attention Pruning for Efficient VLMs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17849)] 

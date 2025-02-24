@@ -34,19 +34,16 @@ Paper Description
     - [Test-Time Adaption](#Test-Time-Adaption)
       - [Test-Time Augmentation](#Test-Time-Augmentation)
       - [Test-Time Prompt Tuning](#Test-Time-Prompt-Tuning)
-- [🧑‍💻 Augmenting modalities with VLMs](#Augmenting-modalities-with-VLMs)
-    - [Electroencephalography](#Electroencephalography)
-    - [Millimeter Wave Radar](#Millimeter-Wave-Radar)
-    - [Audio](#Audio)
+- [🧑‍💻 Privacy-Preserving Distributed VLM](#Privacy-Preserving-Distributed-VLM)
 
 
 ## 🤖 Pre-deployment Techniques
 ### Quantization
 ###### Post-Training Quantization
-- MBQ-Modality-Balanced Quantization for Large Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.17849)] 
-- Q-VLM- Post-training Quantization for Large Vision Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.01241)] 
-- P4Q- Learning to Prompt for Quantization in Visual-language Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2308.13137)] [[Code](https://github.com/OpenGVLab/OmniQuant)]
-- BiLLM- Pushing the Limit of Post-Training Quantization for LLMs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.11295)]
+- MBQ-Modality-Balanced Quantization for Large Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2412.19509)] [[Code](https://github.com/thu-nics/MBQ)]
+- Q-VLM- Post-training Quantization for Large Vision Language Models, <ins>NeurIPS, 2024</ins> [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/cffbaf4f47546ece96bb42c0edda40ee-Abstract-Conference.html)] [[Code](https://github.com/changyuanwang17/qvlm?tab=readme-ov-file)]
+- P4Q- Learning to Prompt for Quantization in Visual-language Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2409.17634)]
+- BiLLM- Pushing the Limit of Post-Training Quantization for LLMs, <ins>arXiv, 2024</ins> [[Paper](https://dl.acm.org/doi/10.5555/3692070.3692876)] [[Code](https://github.com/Aaronhuang-778/BiLLM)]
 - NoisyQuant- Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers, <ins>ICLR, 2023</ins> [[Paper](https://openreview.net/forum?id=tcbBPnfwxS)] [[Code](https://github.com/IST-DASLab/gptq)]
 - LRQuant-Learnable and Robust Post-Training Quantization for Large Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2307.13304)] [[Code](https://github.com/jerry-chee/QuIP)]
 - PTQ4ViT- Post-Training Quantization for Vision Transformers with Twin Uniform Quantization, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.00978)] [[Code](https://github.com/mit-han-lab/llm-awq)]

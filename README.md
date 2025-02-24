@@ -21,7 +21,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
   - [Pruning](#Pruning)
     - [Structured](#Structured)
     - [Unstructured](#Unstructured)
-  - [Knowledge Distillation](#Knowledge-Distillation) 
+  - [Knowledgaae Distillation](#Knowledge-Distillation) 
   - [Other Methods](#Other-Methods)
 - [🔢 Efficient Finetuning](#Efficient-Finetuning)
   - [Parameter Efficient](#Parameter-Efficient)
@@ -84,7 +84,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ### Parameter Efficient
 ###### Low-Rank Adapters
 - Low-Rank Few-Shot Adaptation of Vision-Language Models , <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
-- Low-Rank Few-Shot Adaptation of Vision-Language Models , <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
+- Advancing Vision-Language Models with Adapter Ensemble Strategies , <ins>EMNLP, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
 
 ###### Prompt Tuning
 ###### Adapter-based Methods

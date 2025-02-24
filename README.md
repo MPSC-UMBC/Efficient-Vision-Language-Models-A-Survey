@@ -35,7 +35,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
     - [Test-Time Adaption](#Test-Time-Adaption)
       - [Test-Time Augmentation](#Test-Time-Augmentation)
       - [Test-Time Prompt Tuning](#Test-Time-Prompt-Tuning)
-- [🧑‍💻 Privacy-Preserving Distributed VLM](#Privacy-Preserving-Distributed-VLM)
+- [🛠️ Privacy-Preserving Distributed VLM](#Privacy-Preserving-Distributed-VLM)
 
 
 ## 🤖 Pre-deployment Techniques
@@ -100,6 +100,6 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - CoLLiE: Collaborative Training of Large Language Models in an Efficient Way, <ins>EMNLP, 2023</ins> [[Paper](https://arxiv.org/abs/2312.00407)] [[Code](https://github.com/OpenLMLab/collie)]
 ###### Test-Time Prompt Tuning
 
-## 🧑‍💻 Privacy-Preserving Distributed VLM
+## 🛠️ Privacy-Preserving Distributed VLM
 
  <!-- [^1]: This table was updated Dec 2023. This table will require updates as cool new frameworks are being released frequently and current frameworks continue to mature at an accelerated rate. So please feel free to suggest any important distinguishing features or popular new frameworks-->

@@ -1,6 +1,7 @@
 # Efficient-Vision-Language-Models
-#![image](https://github.com/user-attachments/assets/942f4bbf-3248-49b6-87cc-0958970ad534) [2025] Efficient Vision Language Models: A Survey 
+[2025] Efficient Vision Language Models: A Survey 
 
+#![image](https://github.com/user-attachments/assets/942f4bbf-3248-49b6-87cc-0958970ad534) ![image](https://github.com/user-attachments/assets/f15586fa-b8d0-4221-a806-1216ea2b52a7)
 
 > *Gaurav Shinde*, *Anuradha Ravi*, *Emon Dey*, *Milind Rampure*, *Nirmalya Roy*
 

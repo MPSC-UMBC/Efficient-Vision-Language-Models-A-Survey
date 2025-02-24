@@ -22,18 +22,18 @@ Paper Description
     - [Unstructured](#Unstructured)
   - [Knowledge Distillation](#Knowledge-Distillation) 
   - [Other Methods](#Other-Methods)
-- [🔢 Post-deployment Techniques](#Post-deployment-Techniques)
-  - [Efficient Finetuning](#Efficient-Finetuning)
-    - [Parameter Efficient](#Parameter-Efficient)
-      - [Low-Rank Adapters](#Low-Rank-Adapters)
-      - [Prompt Tuning](#Prompt-Tuning)
-      - [Adapter-based Methods](#Adapter-based-Methods)
-      - [Mapping-based Methods](#Mapping-based-Methods)
-    - [Memory Efficient](#Memory-Efficient)
+- [🔢 Efficient Finetuning](#Efficient-Finetuning)
+  - [Parameter Efficient](#Parameter-Efficient)
+    - [Low-Rank Adapters](#Low-Rank-Adapters)
+    - [Prompt Tuning](#Prompt-Tuning)
+    - [Adapter-based Methods](#Adapter-based-Methods)
+    - [Prefix Tuning](#Prefix-Tuning)
+  - [Memory Efficient](#Memory-Efficient)
 - [🧑‍💻 Runtime Optimization](#Runtime-Optimization)
-    - [Scheduling](#Scheduling)
-    - [Batching](#Batching)
-    - [Hardware Optimization](#Hardware-Optimization)
+    - [Token Reduction](#Token-Reduction)
+    - [Test-Time Adaption](#Test-Time-Adaption)
+      - [Test-Time Augmentation](#Test-Time-Augmentation)
+      - [Test-Time Prompt Tuning](#Test-Time-Prompt-Tuning)
 - [🧑‍💻 Augmenting modalities with VLMs](#Augmenting-modalities-with-VLMs)
     - [Electroencephalography](#Electroencephalography)
     - [Millimeter Wave Radar](#Millimeter-Wave-Radar)
@@ -83,29 +83,26 @@ Paper Description
 - Med-MoE- Mixture of Domain-Specific Experts for Lightweight Medical VLMs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.16710)]
 - Scaling Vision-Language Models with Sparse Mixture of Experts, <ins>arXiv, 2024</ins> [[Paper](https://github.com/Infini-AI-Lab/TriForce)]
 
-## 🔢 Post-deployment Techniques
-### Efficient Finetuning
-#### Parameter Efficient
+## 🔢 Efficient Finetuning
+### Parameter Efficient
 ###### Low-Rank Adapters
 ###### Prompt Tuning
 ###### Adapter-based Methods
-###### Mapping-based Methods
-#### Memory Efficient
+###### Prefix Tuning
+### Memory Efficient
 - NeurIPS-2023-make-pre-trained-model-reversible-from-parameter-to-memory-efficient-fine-tuning-Paper-Conference, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.00888)]
 - Mercea_Time-_Memory-_and_Parameter-Efficient_Visual_Adaptation_CVPR_2024_paper, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.13064)]
 - M2IST, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.07625)] [[Code](https://huggingface.co/datasets/math-ai/AutoMathText)]
 - SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2312.15685)] [[Code](https://github.com/hkust-nlp/deita)]
 
 ## 🧑‍💻 Runtime Optimization
-### Scheduling
-### Batching
-### Hardware Optimization
+### Token Reduction
+### Test-Time Adaption
+###### Test-Time Augmentation
 - MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.15627)]
 - CoLLiE: Collaborative Training of Large Language Models in an Efficient Way, <ins>EMNLP, 2023</ins> [[Paper](https://arxiv.org/abs/2312.00407)] [[Code](https://github.com/OpenLMLab/collie)]
+###### Test-Time Prompt Tuning
 
-## 🧑‍💻 Augmenting modalities with VLMs
-### Electroencephalography
-### Millimeter Wave Radar
-### Audio
+## 🧑‍💻 Privacy-Preserving Distributed VLM
 
  <!-- [^1]: This table was updated Dec 2023. This table will require updates as cool new frameworks are being released frequently and current frameworks continue to mature at an accelerated rate. So please feel free to suggest any important distinguishing features or popular new frameworks-->

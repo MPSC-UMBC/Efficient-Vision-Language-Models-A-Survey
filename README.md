@@ -1,4 +1,4 @@
-# !Efficient Vision Language Models: A Survey
+# [!Efficient Vision Language Models: A Survey]
 
 
 > *Gaurav Shinde*, *Anuradha Ravi*, *Emon Dey*, *Milind Rampure*, *Nirmalya Roy*

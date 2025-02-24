@@ -1,13 +1,11 @@
 # Efficient-Vision-Language-Models
 [2025] Efficient Vision Language Models: A Survey  
 
-> **[Paper_Link](http://arxiv.org/abs/2312.03863)**[ [arXiv]](http://arxiv.org/abs/2312.03863) (Paper Versions Listed)
-
 > *Gaurav Shinde*, *Anuradha Ravi*, *Emon Dey*, *Milind Rampure*, *Nirmalya Roy*
 
 > *University of Maryland, Baltimore County (UMBC)*
 
-🤝 Support & Collaboration
+## 🤝 Support & Collaboration
 We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email with any suggestions.
 
 ## 📌 Abstract

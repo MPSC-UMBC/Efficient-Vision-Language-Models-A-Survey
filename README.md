@@ -58,7 +58,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ### Low-rank Approximation
 - SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.12629)] [[Code](https://github.com/X1AOX1A/SeTAR)]
 - PELA: Learning Parameter-Efficient Models with Low-Rank Approximation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.10700)] [[Code](https://github.com/guoyang9/PELA)]
-- Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.10700)] [[Code](https://github.com/guoyang9/PELA)]
+- Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs, <ins>CVPR, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10655939)]
 ### Pruning
 ###### Structured
 - SmartTrim- Adaptive Tokens and Attention Pruning for Efficient VLMs, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.15033)]

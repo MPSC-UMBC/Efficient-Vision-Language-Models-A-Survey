@@ -89,7 +89,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 
 ###### Prompt Tuning
 - Visual-Language Prompt Tuning with Knowledge-guided Context Optimization, <ins>CVPR, 2023</ins> [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]
-- Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,<ins>ICCV 2023</ins> [[Paper](https://dl.acm.org/doi/10.1109/TMM.2023.3291588)] [[Code](https://github.com/mlvlab/DAPT)]
+- Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,<ins>IEEE TMM, 2023</ins> [[Paper](https://dl.acm.org/doi/10.1109/TMM.2023.3291588)] [[Code](https://github.com/fanrena/dpt)]
 - Distribution-Aware Prompt Tuning for Vision-Language Models,<ins>ICCV, 2023</ins> [[Paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800v1947/1TJdQhTQazK)] [[Code](https://github.com/mlvlab/DAPT)]
   
 ###### Adapter-based Methods

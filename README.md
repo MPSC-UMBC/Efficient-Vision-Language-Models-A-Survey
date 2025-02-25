@@ -117,7 +117,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ### Test-Time Adaption
 - Frustratingly Easy Test-Time Adaptation of Vision-Language Models, <ins>NeurIPS, 2024</ins> [[Paper](https://neurips.cc/virtual/2024/poster/94270)] [[Code](https://github.com/FarinaMatteo/zero)]
 - Efficient Test-Time Adaptation of Vision-Language Models, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2403.18293)] [[Code](https://github.com/kdiAAA/TDA)]
-- SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models, <ins>NeurIPS, 2023</ins> [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdd0640218a27e9e2c0e52e324e25db0-Abstract-Conference.html#:~:text=The%20proposed%20SwapPrompt%20can%20be,ImageNet%20and%20nine%20other%20datasets.)] [[Code](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs)]
+- SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models, <ins>NeurIPS, 2023</ins> [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdd0640218a27e9e2c0e52e324e25db0-Abstract-Conference.html#:~:text=The%20proposed%20SwapPrompt%20can%20be,ImageNet%20and%20nine%20other%20datasets.)]
 - Online Gaussian Test-Time Adaptation of Vision-Language Models, <ins>arXiv 2025</ins> [[Paper](https://arxiv.org/abs/2501.04352)] [[Code](https://github.com/cfuchs2023/OGA)]
 
 ###### Test-Time Augmentation

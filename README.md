@@ -127,7 +127,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ###### Test-Time Prompt Tuning
 - Efficient Test-Time Prompt Tuning for Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2408.05775)]
 - C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion, <ins>ICLR, 2024</ins> [[Paper](https://openreview.net/forum?id=jzzEHTBFOT)] [[Code](https://github.com/hee-suk-yoon/C-TPT)]
-- Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models, <ins>arXiv, 2022</ins> [[Paper](https://arxiv.org/abs/2209.07511)] [[Code](https://github.com/azshue/TPT)]
+- Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models, <ins>NeurIPS, 2022</ins> [[Paper](https://arxiv.org/abs/2209.07511)] [[Code](https://github.com/azshue/TPT)]
 
 ## 🔒🌐 Privacy-Preserving Distributed VLM
 

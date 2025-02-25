@@ -42,7 +42,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ### Quantization
 ###### Post-Training Quantization
 - MBQ-Modality-Balanced Quantization for Large Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2412.19509)] [[Code](https://github.com/thu-nics/MBQ)]
-- Q-VLM- Post-training Quantization for Large Vision Language Models, <ins>NeurIPS, 2024</ins> [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/cffbaf4f47546ece96bb42c0edda40ee-Abstract-Conference.html)] [[Code](https://github.com/changyuanwang17/qvlm?tab=readme-ov-file)]
+- Q-VLM- Post-training Quantization for Large Vision Language Models, <ins>NeurIPS, 2024</ins> [[Paper](https://neurips.cc/virtual/2024/poster/94107)] [[Code](https://github.com/changyuanwang17/qvlm?tab=readme-ov-file)]
 - P4Q- Learning to Prompt for Quantization in Visual-language Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2409.17634)]
 - BiLLM- Pushing the Limit of Post-Training Quantization for LLMs, <ins>ICML, 2024</ins> [[Paper](https://dl.acm.org/doi/10.5555/3692070.3692876)] [[Code](https://github.com/Aaronhuang-778/BiLLM)]
 - NoisyQuant- Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers, <ins>IEEE/CVF, 2023</ins> [[Paper](https://ieeexplore.ieee.org/document/10203639)] [[Code](https://github.com/kriskrisliu/NoisyQuant?tab=readme-ov-file)]

@@ -93,7 +93,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Distribution-Aware Prompt Tuning for Vision-Language Models,<ins>ICCV, 2023</ins> [[Paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800v1947/1TJdQhTQazK)] [[Code](https://github.com/mlvlab/DAPT)]
   
 ###### Adapter-based Methods
-- MMA: Multi-Modal Adapter for Vision-Language Models,<ins>CVPR, 2024</ins> [[Paper](https://www.computer.org/csdl/proceedings-article/iccv/2023/071800v1947/1TJdQhTQazK)] [[Code](https://github.com/ZjjConan/VLM-MultiModalAdapter)]
+- MMA: Multi-Modal Adapter for Vision-Language Models,<ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)] [[Code](https://github.com/ZjjConan/VLM-MultiModalAdapter)]
 - VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,<ins>CVPR, 2022</ins> [[Paper](https://arxiv.org/abs/2112.06825)] [[Code](https://github.com/ylsung/VL_adapter)]
 - Meta-Adapter: An Online Few-shot Learner for Vision-Language Mode,<ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2311.03774)][[Code](https://github.com/ArsenalCheng/Meta-Adapter)]
   

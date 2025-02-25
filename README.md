@@ -103,13 +103,22 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 
 ### Memory Efficient
 - Make Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.00477)] [[Code](https://github.com/BaohaoLiao/mefts)]
-- Time-, Memory- and Parameter-Efficient Visual Adaptation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2402.02887)] [[Code](https://github.com/google-research/scenic)]**
+- Time-, Memory- and Parameter-Efficient Visual Adaptation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2402.02887)] [[Code](https://github.com/google-research/scenic)]
 - M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.01131)] [[Code](https://github.com/xuyang-liu16/M2IST)]
-- SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>d</ins> [[Paper](https://arxiv.org/abs/2305.18513)] [[Code](https://github.com/arashardakani/SlimFit)]
+- SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.18513)] [[Code](https://github.com/arashardakani/SlimFit)]
 
 ## 🧑‍💻 Runtime Optimization
+
 ### Token Reduction
+- Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2312.07408)]
+- PuMer: Pruning and Merging Tokens for Efficient Vision Language Models, <ins>ACL 2023</ins> [[Paper](https://aclanthology.org/2023.acl-long.721/)] [[Code](https://github.com/csarron/PuMer)]
+
 ### Test-Time Adaption
+- Frustratingly Easy Test-Time Adaptation of Vision-Language Models, <ins>NeurIPS, 2024</ins> [[Paper](https://neurips.cc/virtual/2024/poster/94270)] [[Code](https://github.com/FarinaMatteo/zero)]
+- Efficient Test-Time Adaptation of Vision-Language Models, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2403.18293)] [[Code](https://github.com/kdiAAA/TDA)]
+- SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models, <ins>NeurIPS, 2023</ins> [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdd0640218a27e9e2c0e52e324e25db0-Abstract-Conference.html#:~:text=The%20proposed%20SwapPrompt%20can%20be,ImageNet%20and%20nine%20other%20datasets.)] [[Code](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs)]
+- Online Gaussian Test-Time Adaptation of Vision-Language Models, <ins>arXiv 2025</ins> [[Paper](https://arxiv.org/abs/2501.04352)] [[Code](https://github.com/cfuchs2023/OGA)]
+
 ###### Test-Time Augmentation
 - MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.15627)]
 - CoLLiE: Collaborative Training of Large Language Models in an Efficient Way, <ins>EMNLP, 2023</ins> [[Paper](https://arxiv.org/abs/2312.00407)] [[Code](https://github.com/OpenLMLab/collie)]

@@ -104,7 +104,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 
 ### Memory Efficient
 - Make Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2306.00477)] [[Code](https://github.com/BaohaoLiao/mefts)]
-- Time-, Memory- and Parameter-Efficient Visual Adaptation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2402.02887)] [[Code](https://github.com/google-research/scenic)]
+- Time-, Memory- and Parameter-Efficient Visual Adaptation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2402.02887)]
 - M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.01131)] [[Code](https://github.com/xuyang-liu16/M2IST)]
 - SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.18513)] [[Code](https://github.com/arashardakani/SlimFit)]
 

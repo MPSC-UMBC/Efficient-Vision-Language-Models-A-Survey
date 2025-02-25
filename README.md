@@ -134,7 +134,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning, <ins>ACM WWW, 2023</ins> [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583518)]
 - Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method, <ins>NeurIPS, 2024</ins> [[Paper](https://nips.cc/virtual/2024/poster/94723)] [[Code](https://github.com/PanBikang/PromptFolio)]
 - Efficient Adapting for Vision-language Foundation Model in Edge Computing Based on Personalized and Multi-Granularity Federated Learning, <ins>IEEE INFOCOM, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10620835)]
-- Fair Federated Learning with Biased Vision-Language Models, <ins>ACL 2024</ins> [[Paper](https://aclanthology.org/2024.findings-acl.595/)] [[Code](https://github.com/yuhangchen0/FedHEAL)]
+- Fair Federated Learning with Biased Vision-Language Models, <ins>ACL 2024</ins> [[Paper](https://aclanthology.org/2024.findings-acl.595/)]
 - Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.11046)]
 
  <!-- [^1]: This table was updated Dec 2023. This table will require updates as cool new frameworks are being released frequently and current frameworks continue to mature at an accelerated rate. So please feel free to suggest any important distinguishing features or popular new frameworks-->

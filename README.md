@@ -68,7 +68,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ###### Unstructured
 - Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity and Performance Restoration, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.02424)] [[Code](https://github.com/Shwai-He/VLM-Compression?tab=readme-ov-file)]
 - MULTIFLOW- Shifting Towards Task-Agnostic Vision-Language Pruning, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2404.05621)] [[Code](https://github.com/FarinaMatteo/multiflow)]
-- ECOFLAP- EFFICIENT COARSE-TO-FINE LAYER-WISE PRUNING FOR VISION-LANGUAGE MODELS, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.02998)] [[Code](https://github.com/ylsung/ECoFLaP)]
+- ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.02998)] [[Code](https://github.com/ylsung/ECoFLaP)]
 ### Knowledge Distillation
 - VLDadaptor_Domain_Adaptive_Object_Detection_With_Vision-Language_Model_Distillation, <ins>IEEE TMM, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10669066)] [[Code](https://github.com/GingerCohle/VLDadaptor?tab=readme-ov-file)]
 - Building Vision-Language Models on Solid Foundations with Masked Distillation, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.html)]

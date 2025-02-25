@@ -77,7 +77,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Compressing Visual-linguistic Model via Knowledge Distillation, <ins>ICCV, 2021</ins> [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Compressing_Visual-Linguistic_Model_via_Knowledge_Distillation_ICCV_2021_paper.html)]
 ### Other Methods
 - Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning, <ins>CVPR, 2017</ins> [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Lu_Knowing_When_to_CVPR_2017_paper.html)]
-- Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2403.11549)] [[Code](https://github.com/JiazuoYu/MoE-Adapters4CL?tab=readme-ov-file)]
+- Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2403.11549)] [[Code](https://github.com/JiazuoYu/MoE-Adapters4CL?tab=readme-ov-file)]
 - Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.10237)] [[Code](https://github.com/jiangsongtao/Med-MoE?tab=readme-ov-file)]
 - Scaling Vision-Language Models with Sparse Mixture of Experts, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2303.07226)]
 

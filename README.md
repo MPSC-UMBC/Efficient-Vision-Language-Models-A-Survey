@@ -13,7 +13,7 @@ Vision-language models (VLMs) integrate visual and textual information, enabling
 for optimizing VLMs on edge and resource-constrained devices. We also explore compact VLM architectures, frameworks and provide detailed insights into the performancelatency trade-offs of efficient VLMs. Our objective is to foster deeper research in this area.
 
 ## 📖 Table of Content
-- [🤖 Pre-deployment techniques](#Pre-deployment-techniques) 
+- [🚀 Pre-deployment techniques](#Pre-deployment-techniques) 
   - [Quantization](#Quantization)
       - [Post-Training Quantization](#Post-Training-Quantization)
       - [Quantization-Aware Training](#Quantization-Aware-Training)
@@ -23,19 +23,19 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
     - [Unstructured](#Unstructured)
   - [Knowledge Distillation](#Knowledge-Distillation) 
   - [Other Methods](#Other-Methods)
-- [🔢 Efficient Finetuning](#Efficient-Finetuning)
+- [🎯 Efficient Finetuning](#Efficient-Finetuning)
   - [Parameter Efficient](#Parameter-Efficient)
     - [Low-Rank Adapters](#Low-Rank-Adapters)
     - [Prompt Tuning](#Prompt-Tuning)
     - [Adapter-based Methods](#Adapter-based-Methods)
     - [Prefix Tuning](#Prefix-Tuning)
   - [Memory Efficient](#Memory-Efficient)
-- [🧑‍💻 Runtime Optimization](#Runtime-Optimization)
+- [⚡ Runtime Optimization](#Runtime-Optimization)
     - [Token Reduction](#Token-Reduction)
     - [Test-Time Adaption](#Test-Time-Adaption)
       - [Test-Time Augmentation](#Test-Time-Augmentation)
       - [Test-Time Prompt Tuning](#Test-Time-Prompt-Tuning)
-- [🛠️ Privacy-Preserving Distributed VLM](#Privacy-Preserving-Distributed-VLM)
+- [🔒🌐 Privacy-Preserving Distributed VLM](#Privacy-Preserving-Distributed-VLM)
 
 
 ## 🤖 Pre-deployment Techniques

@@ -38,7 +38,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - [🔒🌐 Privacy-Preserving Distributed VLM](#Privacy-Preserving-Distributed-VLM)
 
 
-## 🤖 Pre-deployment Techniques
+## 🚀 Pre-deployment Techniques
 ### Quantization
 ###### Post-Training Quantization
 - MBQ-Modality-Balanced Quantization for Large Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2412.19509)] [[Code](https://github.com/thu-nics/MBQ)]
@@ -80,7 +80,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Med-MoE: Mixture of Domain-Specific Experts for Lightweight Medical Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.10237)] [[Code](https://github.com/jiangsongtao/Med-MoE?tab=readme-ov-file)]
 - Scaling Vision-Language Models with Sparse Mixture of Experts, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2303.07226)]
 
-## 🔢 Efficient Finetuning
+## 🎯 Efficient Finetuning
 ### Parameter Efficient
 ###### Low-Rank Adapters
 - Low-Rank Few-Shot Adaptation of Vision-Language Models , <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
@@ -107,7 +107,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - M2IST: Multi-Modal Interactive Side-Tuning for Efficient Referring Expression Comprehension, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.01131)] [[Code](https://github.com/xuyang-liu16/M2IST)]
 - SLIMFIT- Memory-Efficient Fine-Tuning of Transformer-based Models using Training Dynamics, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.18513)] [[Code](https://github.com/arashardakani/SlimFit)]
 
-## 🧑‍💻 Runtime Optimization
+## ⚡ Runtime Optimization
 
 ### Token Reduction
 - Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2312.07408)]
@@ -128,7 +128,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion, <ins>ICLR, 2024</ins> [[Paper](https://openreview.net/forum?id=jzzEHTBFOT)] [[Code](https://github.com/hee-suk-yoon/C-TPT)]
 - Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models, <ins>arXiv, 2022</ins> [[Paper](https://arxiv.org/abs/2209.07511)] [[Code](https://github.com/azshue/TPT)]
 
-## 🛠️ Privacy-Preserving Distributed VLM
+## 🔒🌐 Privacy-Preserving Distributed VLM
 
 - pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning, <ins>ACM, 2023</ins> [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583518)]
 - Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method, <ins>NeurIPS, 2024</ins> [[Paper](https://nips.cc/virtual/2024/poster/94723)] [[Code (https://github.com/PanBikang/PromptFolio)]

@@ -62,7 +62,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ### Pruning
 ###### Structured
 - SmartTrim- Adaptive Tokens and Attention Pruning for Efficient VLMs, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.15033)]
-- OSSCAR- One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization, <ins>ACM/ICML, 2024</ins> [[Paper](https://dl.acm.org/doi/10.5555/3692070.3693510)] [[Code](https://github.com/mazumder-lab/OSSCAR)]
+- OSSCAR- One-Shot Structured Pruning in Vision and Language Models with Combinatorial Optimization, <ins>ICML, 2024</ins> [[Paper](https://dl.acm.org/doi/10.5555/3692070.3693510)] [[Code](https://github.com/mazumder-lab/OSSCAR)]
 - MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_MoPE-CLIP_Structured_Pruning_for_Efficient_Vision-Language_Models_with_Module-wise_Pruning_CVPR_2024_paper.html)]
 - Isomorphic Pruning for Vision Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.04616)] [[Code](https://github.com/VainF/Isomorphic-Pruning?tab=readme-ov-file)]
 ###### Unstructured

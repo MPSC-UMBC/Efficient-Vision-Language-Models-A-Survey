@@ -67,7 +67,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Isomorphic Pruning for Vision Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.04616)] [[Code](https://github.com/VainF/Isomorphic-Pruning?tab=readme-ov-file)]
 ###### Unstructured
 - Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity and Performance Restoration, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.02424)] [[Code](https://github.com/Shwai-He/VLM-Compression?tab=readme-ov-file)]
-- MULTIFLOW- Shifting Towards Task-Agnostic Vision-Language Pruning, <ins>IEEE/CVF, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Farina_MULTIFLOW_Shifting_Towards_Task-Agnostic_Vision-Language_Pruning_CVPR_2024_paper.pdf)] [[Code](https://github.com/FarinaMatteo/multiflow)]
+- MULTIFLOW- Shifting Towards Task-Agnostic Vision-Language Pruning, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Farina_MULTIFLOW_Shifting_Towards_Task-Agnostic_Vision-Language_Pruning_CVPR_2024_paper.pdf)] [[Code](https://github.com/FarinaMatteo/multiflow)]
 - ECOFLAP- EFFICIENT COARSE-TO-FINE LAYER-WISE PRUNING FOR VISION-LANGUAGE MODELS, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.02998)] [[Code](https://github.com/ylsung/ECoFLaP)]
 ### Knowledge Distillation
 - VLDadaptor_Domain_Adaptive_Object_Detection_With_Vision-Language_Model_Distillation, <ins>IEEE TMM, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10669066)] [[Code](https://github.com/GingerCohle/VLDadaptor?tab=readme-ov-file)]

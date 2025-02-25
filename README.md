@@ -56,8 +56,8 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - LLM-QAT-Data-Free Quantization Aware Training for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAT?tab=readme-ov-file)]
 - EfficientQAT- Efficient Quantization-Aware Training for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.11062)] [[Code](https://github.com/OpenGVLab/EfficientQAT?tab=readme-ov-file)]
 ### Low-rank Approximation
-- Low-Rank Few-Shot Adaptation of Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
-- Advancing Vision-Language Models with Adapter Ensemble Strategies, <ins>ACL, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
+- SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.12629)] [[Code](https://github.com/X1AOX1A/SeTAR)]
+- PELA: Learning Parameter-Efficient Models with Low-Rank Approximation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.10700)] [[Code](https://github.com/guoyang9/PELA)]
 ### Pruning
 ###### Structured
 - SmartTrim- Adaptive Tokens and Attention Pruning for Efficient VLMs, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2305.15033)]

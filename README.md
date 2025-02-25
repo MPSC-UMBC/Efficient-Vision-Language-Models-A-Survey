@@ -120,10 +120,20 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Online Gaussian Test-Time Adaptation of Vision-Language Models, <ins>arXiv 2025</ins> [[Paper](https://arxiv.org/abs/2501.04352)] [[Code](https://github.com/cfuchs2023/OGA)]
 
 ###### Test-Time Augmentation
-- MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2402.15627)]
-- CoLLiE: Collaborative Training of Large Language Models in an Efficient Way, <ins>EMNLP, 2023</ins> [[Paper](https://arxiv.org/abs/2312.00407)] [[Code](https://github.com/OpenLMLab/collie)]
+- TextAug: Test time Text Augmentation for Multimodal Person Re-identification, <ins>arXiv, 2023</ins> [[Paper](https://arxiv.org/abs/2312.01605)]
+- On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2405.02266)] [[Code](https://github.com/MaxZanella/MTA)]
+
 ###### Test-Time Prompt Tuning
+- Efficient Test-Time Prompt Tuning for Vision-Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2408.05775)]
+- C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion, <ins>ICLR, 2024</ins> [[Paper](https://openreview.net/forum?id=jzzEHTBFOT)] [[Code](https://github.com/hee-suk-yoon/C-TPT)]
+- Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models, <ins>arXiv, 2022</ins> [[Paper](https://arxiv.org/abs/2209.07511)] [[Code](https://github.com/azshue/TPT)]
 
 ## 🛠️ Privacy-Preserving Distributed VLM
+
+- pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning, <ins>ACM, 2023</ins> [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583518)]
+- Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method, <ins>NeurIPS, 2024</ins> [[Paper](https://nips.cc/virtual/2024/poster/94723)] [[Code (https://github.com/PanBikang/PromptFolio)]
+- Efficient Adapting for Vision-language Foundation Model in Edge Computing Based on Personalized and Multi-Granularity Federated Learning, <ins>NeurIPS, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10620835)]
+- Fair Federated Learning with Biased Vision-Language Models, <ins>ACL 2024</ins> [[Paper](https://aclanthology.org/2024.findings-acl.595/)] [[Code](https://github.com/yuhangchen0/FedHEAL)]
+- Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.11046)]
 
  <!-- [^1]: This table was updated Dec 2023. This table will require updates as cool new frameworks are being released frequently and current frameworks continue to mature at an accelerated rate. So please feel free to suggest any important distinguishing features or popular new frameworks-->

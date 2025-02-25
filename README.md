@@ -72,7 +72,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ### Knowledge Distillation
 - VLDadaptor_Domain_Adaptive_Object_Detection_With_Vision-Language_Model_Distillation, <ins>IEEE TMM, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10669066)] [[Code](https://github.com/GingerCohle/VLDadaptor?tab=readme-ov-file)]
 - Building Vision-Language Models on Solid Foundations with Masked Distillation, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.html)]
-- Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper.html)] [[Code](https://github.com/zhengli97/PromptKD?tab=readme-ov-file)]
+- PromptKD: Unsupervised Prompt Distillation for Vision-Language Models, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper.html)] [[Code](https://github.com/zhengli97/PromptKD?tab=readme-ov-file)]
 - KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation, <ins>arXiv, 2021</ins> [[Paper](https://arxiv.org/abs/2109.10504)]
 - Fang_Compressing_Visual-Linguistic_Model_via_Knowledge_Distillation_ICCV_2021_paper, <ins>EMNLP, 2022</ins> [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Compressing_Visual-Linguistic_Model_via_Knowledge_Distillation_ICCV_2021_paper.html)]
 ### Other Methods

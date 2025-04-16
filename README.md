@@ -49,6 +49,8 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - LRQuant-Learnable and Robust Post-Training Quantization for Large Language Models, <ins>ACL, 2024</ins> [[Paper](https://aclanthology.org/2024.acl-long.122/)] [[Code](https://github.com/zjq0455/RLQ)]
 - PTQ4ViT- Post-Training Quantization for Vision Transformers with Twin Uniform Quantization, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2111.12293)] [[Code](https://github.com/hahnyuan/PTQ4ViT?tab=readme-ov-file)]
 - PTQ4SAM- Post-Training Quantization for Segment Anything, <ins>CVPR, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10658486)] [[Code](https://github.com/chengtao-lv/PTQ4SAM)]
+- SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration, <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2410.02367)] [[Code](https://github.com/thu-ml/SageAttention)]
+- SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization<ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2411.10958)] [[Code](https://github.com/thu-ml/SageAttention)]
 ###### Quantization-Aware Training
 - Boost Vision Transformer with GPU-Friendly Sparsity and Quantization, <ins>CVPR, 2023</ins> [[Paper](https://ieeexplore.ieee.org/document/10203700)]
 - Advancing Multimodal Large Language Models with Quantization-aware Scale Learning for Efficient Adaptation, <ins>ACM, 2024</ins> [[Paper](https://dl.acm.org/doi/10.1145/3664647.3680838)] [[Code](https://github.com/xjjxmu/QSLAW?tab=readme-ov-file)]

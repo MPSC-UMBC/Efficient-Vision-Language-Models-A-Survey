@@ -139,4 +139,20 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Fair Federated Learning with Biased Vision-Language Models, <ins>ACL 2024</ins> [[Paper](https://aclanthology.org/2024.findings-acl.595/)]
 - Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.11046)]
 
+## 📖 Citation
+
+If you find this survey valuable, please cite:
+
+```bibtex
+@misc{shinde2025surveyefficientvisionlanguagemodels,
+      title={A Survey on Efficient Vision-Language Models}, 
+      author={Gaurav Shinde and Anuradha Ravi and Emon Dey and Shadman Sakib and Milind Rampure and Nirmalya Roy},
+      year={2025},
+      eprint={2504.09724},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.09724}, 
+}
+
+
  <!-- [^1]: This table was updated Dec 2023. This table will require updates as cool new frameworks are being released frequently and current frameworks continue to mature at an accelerated rate. So please feel free to suggest any important distinguishing features or popular new frameworks-->

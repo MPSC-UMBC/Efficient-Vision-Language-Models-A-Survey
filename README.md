@@ -153,6 +153,3 @@ If you find this survey valuable, please cite:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2504.09724}, 
 }
-
-
- <!-- [^1]: This table was updated Dec 2023. This table will require updates as cool new frameworks are being released frequently and current frameworks continue to mature at an accelerated rate. So please feel free to suggest any important distinguishing features or popular new frameworks-->

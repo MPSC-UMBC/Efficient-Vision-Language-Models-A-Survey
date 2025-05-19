@@ -8,7 +8,7 @@
 > *University of Maryland, Baltimore County (UMBC)*
 
 ## 🤝 Support & Collaboration
-We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email with any suggestions.
+We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email (gshinde1@umbc.edu) with any suggestions.
 
 ## 📌 Abstract
 Vision-language models (VLMs) integrate visual and textual information, enabling a wide range of applications such as image captioning and visual question answering, making them crucial for modern AI systems. However, their high computational demands pose challenges for real-time applications. This has led to a growing focus on developing efficient visionlanguage models. In this survey, we review key techniques

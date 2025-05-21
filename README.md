@@ -54,7 +54,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2411.10958)] [[Code](https://github.com/thu-ml/SageAttention)]
 - SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <ins>arXiv, 2024</ins> [[Paper](https://doi.org/10.48550/arXiv.2410.02367)] [[Code](https://github.com/thu-ml/SageAttention)]
 - FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning <ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2307.08691)] [[Code](https://github.com/Dao-AILab/flash-attention)]
-- Post-Training Quantization for Vision Transformer,<ins>arXiv, 2021</ins> [[Paper](https://doi.org/10.48550/arXiv.2106.14156)] [[Code](https://github.com/hahnyuan/PTQ4ViT)]
+- Post-Training Quantization for Vision Transformer,<ins>arXiv, 2021</ins> [[Paper](https://doi.org/10.48550/arXiv.2106.14156)] 
 - FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer,<ins>arXiv, 2021</ins> [[Paper](https://doi.org/10.48550/arXiv.2111.13824)] [[Code](https://github.com/megvii-research/FQ-ViT)]
 - SmoothQuant: accurate and efficient post-training quantization for large language models,<ins>arXiv, 2022</ins> [[Paper](https://doi.org/10.48550/arXiv.2211.10438)] [[Code](https://github.com/mit-han-lab/smoothquant)]
 ###### Quantization-Aware Training

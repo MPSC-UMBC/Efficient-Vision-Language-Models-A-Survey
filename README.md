@@ -66,7 +66,7 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - Quantization Variation: A New Perspective on Training Transformers with Low-Bit Precision, <ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2307.00331)] [[Code](https://github.com/HuangOwen/Quantization-Variation)]
 - PackQViT: faster sub-8-bit vision transformers via full and packed quantization on the mobile, <ins>ACM, 2023</ins> [[Paper](https://dl.acm.org/doi/10.5555/3666122.3666518)] [[Code](https://github.com/PeiyanFlying/PackQViT)]
 - Fixed-point Quantization for Vision Transformer, <ins>IEEE, 2021</ins> [[Paper](https://ieeexplore.ieee.org/document/9728246)]
-- QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models<ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2309.14717)] [[Code](https://github.com/yuhuixu1993/qa-lora.)]
+- QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models<ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2309.14717)] [[Code](https://github.com/yuhuixu1993/qa-lora)]
 - Low-Rank Quantization-Aware Training for LLMs <ins>arXiv, 2024</ins> [[Paper](https://doi.org/10.48550/arXiv.2406.06385)] [[Code](https://github.com/qualcomm-ai-research/LR-QAT)]
 
 ### Low-rank Approximation

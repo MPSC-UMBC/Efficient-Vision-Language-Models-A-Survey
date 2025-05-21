@@ -14,6 +14,11 @@ We welcome feedback and contributions to improve this survey and repository. The
 Vision-language models (VLMs) integrate visual and textual information, enabling a wide range of applications such as image captioning and visual question answering, making them crucial for modern AI systems. However, their high computational demands pose challenges for real-time applications. This has led to a growing focus on developing efficient visionlanguage models. In this survey, we review key techniques
 for optimizing VLMs on edge and resource-constrained devices. We also explore compact VLM architectures, frameworks and provide detailed insights into the performancelatency trade-offs of efficient VLMs. Our objective is to foster deeper research in this area.
 
+## 📊 Evaluation of Compact VLMs
+![download (4)](https://github.com/user-attachments/assets/59b70ea2-29cb-45d9-8e8f-f8ac8a7d8970)
+SmolVLM with 2.2B parameters consistently achieves the highest accuracy across eight benchmarks, followed by the 500M and then the 256M models. Interestingly, Idefics with 80B parameters yields the lowest performance across most benchmarks. In terms of throughput, the 256M model delivers the highest, followed by the 500M, 2.2B, and finally the 80B model. A higher throughput indicates better efficiency. These results highlight a critical insight: achieving optimal performance on edge or pervasive IoT devices requires a careful balance between accuracy and efficiency, tailored to the specific constraints of the deployment hardware, such as memory and GPU availability.
+
+
 ## 📖 Table of Content
 - [🚀 Pre-deployment techniques](#Pre-deployment-techniques) 
   - [Quantization](#Quantization)

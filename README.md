@@ -100,6 +100,12 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 ###### Low-Rank Adapters
 - Low-Rank Few-Shot Adaptation of Vision-Language Models , <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
 - Advancing Vision-Language Models with Adapter Ensemble Strategies , <ins>EMNLP, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
+- Enhancing Adversarial Robustness of Vision-Language Models through Low-Rank Adaptation, <ins>arXiv, 2024</ins> [[Paper](https://doi.org/10.48550/arXiv.2404.13425)]
+- Complementary Subspace Low-Rank Adaptation of Vision-Language Models for Few-Shot Classification, <ins>arXiv, 2025</ins> [[Paper](https://doi.org/10.48550/arXiv.2501.15040)]
+- One Head Eight Arms: Block Matrix based Low Rank Adaptation for CLIP-based Few-Shot Learning, <ins>arXiv, 2025</ins> [[Paper](https://doi.org/10.48550/arXiv.2501.16720)]
+- Adaptive Rank, Reduced Forgetting: Knowledge Retention in Continual Learning Vision-Language Models with Dynamic Rank-Selective LoRA, <ins>arXiv, 2024</ins> [[Paper](https://doi.org/10.48550/arXiv.2412.01004)] [[Code](https://github.com/jeff024/DyRA)]
+- LoRA-TTT: Low-Rank Test-Time Training for Vision-Language Models, <ins>arXiv, 2025</ins> [[Paper](https://doi.org/10.48550/arXiv.2502.02069)]
+- Serial Low-rank Adaptation of Vision Transformer, <ins>arXiv, 2025</ins> [[Paper](https://doi.org/10.48550/arXiv.2503.17750)]
 
 ###### Prompt Tuning
 - Visual-Language Prompt Tuning with Knowledge-guided Context Optimization, <ins>CVPR, 2023</ins> [[Paper](https://arxiv.org/abs/2303.13283)] [[Code](https://github.com/htyao89/KgCoOp?tab=readme-ov-file)]

@@ -51,15 +51,21 @@ for optimizing VLMs on edge and resource-constrained devices. We also explore co
 - LRQuant-Learnable and Robust Post-Training Quantization for Large Language Models, <ins>ACL, 2024</ins> [[Paper](https://aclanthology.org/2024.acl-long.122/)] [[Code](https://github.com/zjq0455/RLQ)]
 - PTQ4ViT- Post-Training Quantization for Vision Transformers with Twin Uniform Quantization, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2111.12293)] [[Code](https://github.com/hahnyuan/PTQ4ViT?tab=readme-ov-file)]
 - PTQ4SAM- Post-Training Quantization for Segment Anything, <ins>CVPR, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10658486)] [[Code](https://github.com/chengtao-lv/PTQ4SAM)]
-- SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration, <ins>ICLR, 2025</ins> [[Paper](https://arxiv.org/abs/2410.02367)] [[Code](https://github.com/thu-ml/SageAttention)]
-- SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization<ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2411.10958)] [[Code](https://github.com/thu-ml/SageAttention)]
+- SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2411.10958)] [[Code](https://github.com/thu-ml/SageAttention)]
 - SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <ins>arXiv, 2024</ins> [[Paper](https://doi.org/10.48550/arXiv.2410.02367)] [[Code](https://github.com/thu-ml/SageAttention)]
+- FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning <ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2307.08691)] [[Code](https://github.com/Dao-AILab/flash-attention)]
+- Post-Training Quantization for Vision Transformer,<ins>arXiv, 2021</ins> [[Paper](https://doi.org/10.48550/arXiv.2106.14156)] [[Code](https://github.com/hahnyuan/PTQ4ViT)]
+- FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer,<ins>arXiv, 2021</ins> [[Paper](https://doi.org/10.48550/arXiv.2111.13824)] [[Code](https://github.com/megvii-research/FQ-ViT)]
+- SmoothQuant: accurate and efficient post-training quantization for large language models,<ins>arXiv, 2022</ins> [[Paper](https://doi.org/10.48550/arXiv.2211.10438)] [[Code](https://github.com/mit-han-lab/smoothquant)]
 ###### Quantization-Aware Training
 - Boost Vision Transformer with GPU-Friendly Sparsity and Quantization, <ins>CVPR, 2023</ins> [[Paper](https://ieeexplore.ieee.org/document/10203700)]
 - Advancing Multimodal Large Language Models with Quantization-aware Scale Learning for Efficient Adaptation, <ins>ACM, 2024</ins> [[Paper](https://dl.acm.org/doi/10.1145/3664647.3680838)] [[Code](https://github.com/xjjxmu/QSLAW?tab=readme-ov-file)]
 - Q-ViT- Fully Differentiable Quantization for Vision Transformer, <ins>arXiv, 2022</ins> [[Paper](https://arxiv.org/abs/2201.07703)]
 - LLM-QAT-Data-Free Quantization Aware Training for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2305.17888)] [[Code](https://github.com/facebookresearch/LLM-QAT?tab=readme-ov-file)]
 - EfficientQAT- Efficient Quantization-Aware Training for Large Language Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.11062)] [[Code](https://github.com/OpenGVLab/EfficientQAT?tab=readme-ov-file)]
+- Quantization Variation: A New Perspective on Training Transformers with Low-Bit Precision, <ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2307.00331)] [[Code](https://github.com/HuangOwen/Quantization-Variation)]
+- PackQViT: faster sub-8-bit vision transformers via full and packed quantization on the mobile, <ins>ACM, 2023</ins> [[Paper](https://dl.acm.org/doi/10.5555/3666122.3666518)] [[Code](https://github.com/OpenGVLab/EfficientQAT?tab=readme-ov-file)]
+
 ### Low-rank Approximation
 - SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2406.12629)] [[Code](https://github.com/X1AOX1A/SeTAR)]
 - PELA: Learning Parameter-Efficient Models with Low-Rank Approximation, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.10700)] [[Code](https://github.com/guoyang9/PELA)]

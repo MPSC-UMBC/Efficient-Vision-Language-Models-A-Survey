@@ -7,7 +7,7 @@
 
 > *University of Maryland, Baltimore County (UMBC)*
 
->  ![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-Diffusion-Model-Survey)
+                                                                   ![GitHub Repo stars](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey.git)
  
 
 ## 🤝 Support & Collaboration

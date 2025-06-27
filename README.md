@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="center"> 🚀 Exciting news- our survey has been accepted at WIREs DMKD (11.7 IF)</h3>
+<h3 align="center"> 🚀 Exciting news- Our survey has been accepted at WIREs DMKD (11.7 IF)</h3>
 
 ## 🤝 Support & Collaboration
 We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email (gshinde1@umbc.edu) with any suggestions.

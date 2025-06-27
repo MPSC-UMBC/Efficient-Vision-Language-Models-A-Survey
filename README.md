@@ -7,6 +7,9 @@
 
 > *University of Maryland, Baltimore County (UMBC)*
 
+>  ![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-Diffusion-Model-Survey)
+ 
+
 ## 🤝 Support & Collaboration
 We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email (gshinde1@umbc.edu) with any suggestions.
 

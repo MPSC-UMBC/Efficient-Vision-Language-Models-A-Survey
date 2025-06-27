@@ -7,7 +7,8 @@
 
 > *University of Maryland, Baltimore County (UMBC)*
 
-<h3 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+
+<h4 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
  
 <p align="center">
   <a href="https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers">
@@ -17,6 +18,8 @@
     />
   </a>
 </p>
+
+<h3 align="center"> 🚀 Exciting news- our survey has been accepted at WIREs DMKD (11.7 IF)</h3>
 
 ## 🤝 Support & Collaboration
 We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email (gshinde1@umbc.edu) with any suggestions.

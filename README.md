@@ -13,6 +13,13 @@
    [![GitHub stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers) 
 </h6>
  
+<h5 align="center">
+
+   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+   ![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-Diffusion-Model-Survey)
+   https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers
+
+</h5>
 
 ## 🤝 Support & Collaboration
 We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email (gshinde1@umbc.edu) with any suggestions.

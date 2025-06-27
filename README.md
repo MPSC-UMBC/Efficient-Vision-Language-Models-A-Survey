@@ -14,10 +14,7 @@
 </h6>
  
 <h5 align="center">
-
-   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-   ![GitHub Repo stars](https://img.shields.io/github/stars/AIoT-MLSys-Lab/Efficient-Diffusion-Model-Survey)
-   https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers
+   ![GitHub Repo stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)
 
 </h5>
 

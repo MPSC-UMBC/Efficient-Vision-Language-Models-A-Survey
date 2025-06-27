@@ -7,7 +7,7 @@
 
 > *University of Maryland, Baltimore County (UMBC)*
 
-[![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)](https://github.com/OWNER/REPO/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers)
  
 
 ## 🤝 Support & Collaboration

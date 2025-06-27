@@ -9,9 +9,7 @@
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
-<h6 align="center">
-   [![GitHub stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers) 
-</h6>
+[![GitHub stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers) 
  
 <h5 align="center">
    ![GitHub Repo stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)

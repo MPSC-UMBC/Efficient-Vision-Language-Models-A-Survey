@@ -11,9 +11,14 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers) 
  
-<h5 align="center">
-   [![GitHub stars](https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social)](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers)
-</h5>
+<p align="center">
+  <a href="https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers">
+    <img
+      src="https://img.shields.io/github/stars/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey?style=social"
+      alt="GitHub stars"
+    />
+  </a>
+</p>
 
 ## 🤝 Support & Collaboration
 We welcome feedback and contributions to improve this survey and repository. The repository will be actively maintained with emerging research. Feel free to reach out via email (gshinde1@umbc.edu) with any suggestions.

@@ -7,7 +7,7 @@
 
 > *University of Maryland, Baltimore County (UMBC)*
 
-![GitHub Repo stars](https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey.git)
+[![GitHub stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)](https://github.com/OWNER/REPO/stargazers)
  
 
 ## 🤝 Support & Collaboration

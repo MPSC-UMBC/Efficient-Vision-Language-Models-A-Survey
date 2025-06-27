@@ -7,7 +7,7 @@
 
 > *University of Maryland, Baltimore County (UMBC)*
 
-###<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+<h3 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
  
 <p align="center">
   <a href="https://github.com/MPSC-UMBC/Efficient-Vision-Language-Models-A-Survey/stargazers">

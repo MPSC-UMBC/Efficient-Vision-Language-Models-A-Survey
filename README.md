@@ -72,6 +72,7 @@ SmolVLM with 2.2B parameters consistently achieves the highest accuracy across e
 - PTQ4SAM- Post-Training Quantization for Segment Anything, <ins>CVPR, 2024</ins> [[Paper](https://ieeexplore.ieee.org/document/10658486)] [[Code](https://github.com/chengtao-lv/PTQ4SAM)]
 - SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization<ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2411.10958)] [[Code](https://github.com/thu-ml/SageAttention)]
 - SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration <ins>arXiv, 2024</ins> [[Paper](https://doi.org/10.48550/arXiv.2410.02367)] [[Code](https://github.com/thu-ml/SageAttention)]
+- SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2505.11594)] [[Code](https://github.com/thu-ml/SageAttention)]
 - FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning <ins>arXiv, 2023</ins> [[Paper](https://doi.org/10.48550/arXiv.2307.08691)] [[Code](https://github.com/Dao-AILab/flash-attention)]
 - Post-Training Quantization for Vision Transformer,<ins>arXiv, 2021</ins> [[Paper](https://doi.org/10.48550/arXiv.2106.14156)] 
 - FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer,<ins>arXiv, 2021</ins> [[Paper](https://doi.org/10.48550/arXiv.2111.13824)] [[Code](https://github.com/megvii-research/FQ-ViT)]
@@ -99,6 +100,7 @@ SmolVLM with 2.2B parameters consistently achieves the highest accuracy across e
 - MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric, <ins>CVPR, 2024</ins> [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_MoPE-CLIP_Structured_Pruning_for_Efficient_Vision-Language_Models_with_Module-wise_Pruning_CVPR_2024_paper.html)]
 - Isomorphic Pruning for Vision Models, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2407.04616)] [[Code](https://github.com/VainF/Isomorphic-Pruning?tab=readme-ov-file)]
 ###### Unstructured
+- SpargeAttention: Accurate and Training-free Sparse Attention Accelerating Any Model Inference <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2502.18137)] [[Code](https://github.com/thu-ml/SpargeAttn)]
 - Rethinking Pruning for Vision-Language Models: Strategies for Effective Sparsity and Performance Restoration, <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2404.02424)] [[Code](https://github.com/Shwai-He/VLM-Compression?tab=readme-ov-file)]
 - MULTIFLOW- Shifting Towards Task-Agnostic Vision-Language Pruning, <ins>CVPR, 2024</ins> [[Paper](https://arxiv.org/abs/2404.05621)] [[Code](https://github.com/FarinaMatteo/multiflow)]
 - ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models, <ins>ICLR, 2024</ins> [[Paper](https://arxiv.org/abs/2310.02998)] [[Code](https://github.com/ylsung/ECoFLaP)]
@@ -117,6 +119,7 @@ SmolVLM with 2.2B parameters consistently achieves the highest accuracy across e
 ## 🎯 Efficient Finetuning
 ### Parameter Efficient
 ###### Low-Rank Adapters
+- SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention <ins>arXiv, 2025</ins> [[Paper](https://arxiv.org/abs/2509.24006)] [[Code](https://github.com/thu-ml/SLA)]
 - Low-Rank Few-Shot Adaptation of Vision-Language Models , <ins>arXiv, 2024</ins> [[Paper](https://arxiv.org/abs/2405.18541)] [[Code](https://github.com/MaxZanella/CLIP-LoRA?tab=readme-ov-file)]
 - Advancing Vision-Language Models with Adapter Ensemble Strategies , <ins>EMNLP, 2024</ins> [[Paper](https://aclanthology.org/2024.findings-emnlp.921/)]
 - Enhancing Adversarial Robustness of Vision-Language Models through Low-Rank Adaptation, <ins>arXiv, 2024</ins> [[Paper](https://doi.org/10.48550/arXiv.2404.13425)]
